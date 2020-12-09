@@ -1,8 +1,8 @@
 ---
-description: Domain-Driven Design
+description: 'https://bugtype-kr.gitbook.io/ddd/'
 ---
 
-# DDD
+# DDD\(Domain-Driven Design\)
 
 
 
